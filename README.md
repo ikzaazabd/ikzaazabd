@@ -10,6 +10,4 @@ My interests currently revolve around:
 
 **iOS Development · UI/UX Design · Human-Centered Design · Product Thinking**
 
-Previously, I also worked as a **Teaching Assistant for Mobile Application Development**, helping students learn and build their own mobile apps.
-
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ikzaaz-abd). ✦
