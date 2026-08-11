@@ -1,16 +1,15 @@
-# Hello everyone!
+# Hi, I'm Ikzaaz! 👋
 
-My name is **Ikzaaz Bakhtar Abdurrahman**.
+I build things at the intersection of **technology and design**.
 
-I am currently an **Undergraduate Computer Science Student** at the [Faculty of Computer Science, Universitas Brawijaya](https://filkom.ub.ac.id/). Currently, I am undertaking the MBKM Independent Study Program at [Coding Camp 2025 powered by DBS Foundation](https://www.dbs.com/spark/index/id_id/site/codingcamp/index.html).
+Currently, I'm an **iOS Developer at Apple Developer Academy @ILB — Cohort 2026**, where I explore problems, talk to users, design experiences, and turn those ideas into iOS apps with **Swift and SwiftUI**.
 
-I have previously worked as a teaching assistant in the Mobile Application Development Laboratory, which is supported by [this teaching assistant certificate.pdf](https://github.com/user-attachments/files/18809516/12.pdf).
+I recently graduated in **Computer Science from Universitas Brawijaya**, and I've always been interested in more than just making things work — I care about **why we build them, who we're building for, and how they feel to use**.
 
-If you're interested in connecting with me, feel free to follow me on my [LinkedIn](https://www.linkedin.com/in/ikzaaz-abdurrahman/).
+My interests currently revolve around:
 
-<p align="left">
-<a href="https://github.com/ikzaazabd">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
-</a>
-</p>
+**iOS Development · UI/UX Design · Human-Centered Design · Product Thinking**
+
+Previously, I also worked as a **Teaching Assistant for Mobile Application Development**, helping students learn and build their own mobile apps.
+
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ikzaaz-abd). ✦
